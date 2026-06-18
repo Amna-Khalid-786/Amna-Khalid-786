@@ -1,18 +1,15 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Amna-Khalid-786&label=Profile%20views&color=8a2be2&style=flat-square" alt="Amna Khalid Profile Views | Full Stack Software Developer Portfolio">
-</p>
 
 # Amna Khalid | Software Engineer
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi,+I'm+Amna+Khalid!+👋;+Full Stack+Software+Developer;+Building+Functional+Web+%26+Mobile+Apps;&color=8a2be2&background=FFFFFF00" alt="Amna Khalid - Top Rated Software Developer - Building High-Performance Apps" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi,+I'm+Amna+Khalid!;+Software+Developer;+Building+Functional+Web+%26+Mobile+Apps;&color=8a2be2&background=FFFFFF00" alt="Amna Khalid - Software Developer - Building High-Performance Apps" />
 </h1>
 
 <h3 align="center">Building functional, high-performance web and mobile solutions with clean code and modern design.</h3>
 
 <div align="center">
 
-🔭 I am **Full Stack Software Developer** focused on building complete, user-centric applications for **Web** and **Mobile**.  
+🔭 I am a **Software Developer** focused on building complete, user-centric applications for **Web** and **Mobile**.  
 🌱 Currently building high-quality digital experiences with **React**, **React Native**, **Flutter**, **Next.js**, and **WordPress**.  
 💬 Ask me about creating **cross-platform mobile apps**, **WordPress solutions**, or **performant web interfaces**.  
 ⚡ Dedicated to solving complex challenges and maintaining high standards of code excellence.
@@ -59,6 +56,20 @@
   <h3>UI/UX & Design Tools</h3>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma UI/UX Design">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva Graphic Design">
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>Databases, Cloud & Services</h3>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="AWS S3">
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas">
+  <img src="https://img.shields.io/badge/MongoDB_Compass-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Compass">
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend">
+  <img src="https://img.shields.io/badge/Brevo-0092FF?style=for-the-badge&logo=brevo&logoColor=white" alt="Brevo">
 </div>
 
 <br/>
