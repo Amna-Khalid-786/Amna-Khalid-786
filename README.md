@@ -91,8 +91,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=Amna-Khalid-786&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="Amna Khalid GitHub Programming Stats"  />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=Amna-Khalid-786&layout=compact&theme=tokyonight" height="180" alt="Amna Khalid Top Programming Languages - JS, TS, Dart Specialist"  />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=Amna-Khalid-786&show_icons=true&theme=tokyonight&count_private=true&custom_title=Amna%20Khalid%20|%20Software%20Developer's%20GitHub%20Stats&v=2" height="180" alt="Amna Khalid GitHub Programming Stats"  />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=Amna-Khalid-786&layout=compact&theme=tokyonight&custom_title=Top%20Programming%20Languages&v=2" height="180" alt="Amna Khalid Top Programming Languages - JS, TS, Dart Specialist"  />
 </div>
 
 <div align="center">
