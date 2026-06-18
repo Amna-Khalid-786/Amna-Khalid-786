@@ -2,20 +2,17 @@
   <img src="https://komarev.com/ghpvc/?username=Amna-Khalid-786&label=Profile%20views&color=8a2be2&style=flat-square" alt="Amna Khalid Profile Views | Frontend Software Developer Portfolio">
 </p>
 
-# Amna Khalid | Frontend Software Developer
-<p align="center">
-  <img src="github-banner.png" alt="Amna Khalid | Senior Frontend Software Developer | React, Flutter & WordPress Expert Banner" width="100%">
-</p>
+# Amna Khalid | Software Developer
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi,+I'm+Amna+Khalid!+👋;+Frontend+Software+Developer;+Building+Functional+Web+%26+Mobile+Apps;&color=8a2be2&background=FFFFFF00" alt="Amna Khalid - Top Rated Frontend Software Developer - Building High-Performance Apps" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi,+I'm+Amna+Khalid!+👋;+Frontend+Software+Developer;+Building+Functional+Web+%26+Mobile+Apps;&color=8a2be2&background=FFFFFF00" alt="Amna Khalid - Top Rated Software Developer - Building High-Performance Apps" />
 </h1>
 
 <h3 align="center">Building functional, high-performance web and mobile solutions with clean code and modern design.</h3>
 
 <div align="center">
 
-🔭 I am **Frontend Software Developer** focused on building complete, user-centric applications for **Web** and **Mobile**.  
+🔭 I am **Full Stack Software Developer** focused on building complete, user-centric applications for **Web** and **Mobile**.  
 🌱 Currently building high-quality digital experiences with **React**, **React Native**, **Flutter**, **Next.js**, and **WordPress**.  
 💬 Ask me about creating **cross-platform mobile apps**, **WordPress solutions**, or **performant web interfaces**.  
 ⚡ Dedicated to solving complex frontend challenges and maintaining high standards of code excellence.
