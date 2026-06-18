@@ -105,14 +105,26 @@
 
 <div align="center">
 
+### [BlueWorldCity.ai](https://blueworldcity.ai/)
+*A comprehensive real estate platform deployed via Vercel with a custom Hostinger domain. Fully accessible to the public with a secure, private repository.*
+
+### [Camera-Based Application ](https://github.com/noory22/dermaScopeApp)
+*An industrial software application utilizing camera-based technologies for advanced monitoring (Private Repository).*
+
+### [eVitals Mobile App](https://github.com/Amna-Khalid-786/E-vitals-mob-app)
+*A Remote Patient Monitoring mobile application developed in collaboration with Revive Medical Technologies (Private Repository).*
+
 ### [PROACTIVECARE-RPM](https://github.com/Amna-Khalid-786/PROACTIVECARE-RPM)
-*A sophisticated Remote Patient Monitoring system focusing on frontend excellence and real-time health tracking.*
+*A demo project showcasing a sophisticated Remote Patient Monitoring system with real-time health tracking.*
 
-### [devfolio-site](https://github.com/Amna-Khalid-786/devfolio-site)
-*A professional personal portfolio site built with React and TypeScript, showcasing performant frontend architecture.*
+### [Devfolio 3D Portfolio](https://github.com/Amna-Khalid-786/devfolio-site)
+*An industry-standard 3D personal portfolio site built with React and TypeScript, showcasing performant frontend architecture.*
 
-### [Airline Reservation System](https://github.com/Amna-Khalid-786/Airline-Reservation-System)
-*A robust C++ console-based application for managing flight bookings and functional logic.*
+### [SK Associates](https://sk-associates.vercel.app/)
+*A modern business web application deployed successfully on Vercel.*
+
+### [Personal Portfolio](https://my-portfolio-nu-orcin-87.vercel.app/)
+*A dedicated personal portfolio highlighting my journey, skills, and complete project catalog as a Software Developer.*
 
 </div>
 
